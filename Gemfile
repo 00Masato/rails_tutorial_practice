@@ -60,3 +60,7 @@ gem 'html2slim'
 
 #bootstrap
 gem 'bootstrap-sass', '3.3.7'
+
+#jquery
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
